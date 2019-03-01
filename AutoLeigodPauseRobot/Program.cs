@@ -178,11 +178,9 @@ namespace AutoLeigodPauseRobot
             notify_icon=new NotifyIcon();
             notify_icon.Visible=true;
             notify_icon.Icon=Properties.Resources.Icon1;
-
-#if RELEASE
+            
             var console_window_handler=FindWindow("ConsoleWindowClass", Console.Title);
             ShowWindow(console_window_handler, 0);
-#endif
         }
 
         private static void LoadOrInitConfig()
