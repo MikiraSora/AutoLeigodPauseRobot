@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLeigodPauseRobot", "AutoLeigodPauseRobot\AutoLeigodPauseRobot.csproj", "{CA45F80B-BB66-451B-AB7F-B78C6FEA2229}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA45F80B-BB66-451B-AB7F-B78C6FEA2229}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA45F80B-BB66-451B-AB7F-B78C6FEA2229}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA45F80B-BB66-451B-AB7F-B78C6FEA2229}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA45F80B-BB66-451B-AB7F-B78C6FEA2229}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD47BFA-B17E-45A4-B53C-4615BF44F0D9}
+	EndGlobalSection
+EndGlobal
